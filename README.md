@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Kazakhstan!</h3>
 
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently practicing React
+- 🌱 I’m currently practicing TypeScript!
 - 📫 Reach me by [Email](mailto:kalibekzat2003@gmail.com), [Telegram](mailto:https://t.me/bekzatkali)
 - ⚡ I speak English, Kazakh and Russian
 
